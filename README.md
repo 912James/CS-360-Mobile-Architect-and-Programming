@@ -2,6 +2,7 @@
 SNHU CS 360 Mobile Architect &amp; Programming
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+
 The goal of this project is to develop an application that allows users to track their daily weight, set a goal weight, maintain their weight, and get notified when they reach their goal weight or successfully maintain their weight. The app will have a user-friendly interface that securely stores user data in a database, allows for easy login or sign-up, and displays daily weight entries in a clear and organized manner on the main screen. The app will aim to motivate users to achieve their weight goals by providing visual progress, reinforcing positive habits, and supporting weight maintenance. 
 Types of users: 
 a. Regular users: Individuals who want to track their daily weight, set a goal weight, maintain their weight, and monitor their progress over time. 
