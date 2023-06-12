@@ -19,9 +19,11 @@ c. Weight maintainers: All the features mentioned for regular users, plus the ab
 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
 The screens that were necessary to support the user needs and create what i envisioned for the UI/UX were the login screen where the user is asked to enter their login credentials, forgot password or create a new account. Once the user enters the correct login information the next screen is the main home page which shows the weights entered by date. This screen also displays the target weight and allows the user to enter a new daily weight, edit an entry or delete an entry. The scresns attached to the home pageare the add scrren which allows the user to add a weight by specifying the weight and date, the delete a weight screen, update a the target weight and allow sms activity.  
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+
 
 
 How did you test to ensure your code was functional? Why is this process important and what did it reveal?
